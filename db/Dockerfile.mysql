@@ -1,0 +1,3 @@
+FROM mysql
+
+# Copie o arquivo 'codigo.sql' do host para o diretório docker-entrypoint-initdb.d/
